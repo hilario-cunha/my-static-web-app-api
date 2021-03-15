@@ -7,5 +7,6 @@
   "azureFunctions.preDeployTask": "npm prune",
   "staticWebApps.appSubpath": "/angular-app",
   "staticWebApps.apiSubpath": "api",
-  "staticWebApps.outputSubpath": "dist/angular-app"
+  "staticWebApps.outputSubpath": "dist/angular-app",
+  "azureFunctions.projectSubpath": "api"
 }
